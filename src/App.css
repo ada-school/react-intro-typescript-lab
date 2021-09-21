@@ -1,0 +1,22 @@
+body {
+  background-color: lightsteelblue;
+  font-size: large;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.container{
+  max-width: 800px;
+  margin: auto;
+}
+.tarjeta {
+  background-color: aliceblue;
+  color: royalblue;
+  border-radius: 1rem;
+  border: 1px solid rgba(187, 186, 186, 0.562);
+  margin: 1rem;
+  padding: 1rem;
+  box-shadow: 0px 3px 10px rgba(128, 128, 128, 0.25);
+}
+.titulo{
+  color: mediumblue;
+  text-align: center;
+}
