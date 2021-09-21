@@ -7,7 +7,7 @@ body {
   max-width: 800px;
   margin: auto;
 }
-.tarjeta {
+.card {
   background-color: aliceblue;
   color: royalblue;
   border-radius: 1rem;
@@ -16,7 +16,7 @@ body {
   padding: 1rem;
   box-shadow: 0px 3px 10px rgba(128, 128, 128, 0.25);
 }
-.titulo{
+.title{
   color: mediumblue;
   text-align: center;
 }
