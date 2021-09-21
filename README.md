@@ -31,4 +31,4 @@ yarn start
 
 Basandote en las caracteristicas de React que se describen en la [documentacion](https://es.reactjs.org/) oficial, y en el codigo ya existente en este proyecto, crea un tercer artículo que describa una tercera característica de React.
 
-Te animas a implementar algunas mejoras en el codigo? Que cosas podriamos hacer para mejorar nuestro blog?
+Te animas a implementar algunas mejoras en el codigo? Que cosas podriamos hacer para hacer mas interesante nuestro blog?
